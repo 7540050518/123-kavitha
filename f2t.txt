@@ -1,0 +1,193 @@
+<link rel="stylesheet" href="kar2.css">
+</head>
+<body>
+  <div class="landing">
+      <header>
+         <a href="index.html" id="logo"><i class="fa-solid fa-mortar-pestle"></i> Spicy Restaurant</a>
+
+         
+
+         <nav>
+            <a href="#menuheading"><i class="fa-solid fa-bars"></i> Menu</a>
+            <a href="#localheading"><i class="fa-solid fa-location-dot"></i> Location </a>
+        </nav>
+      </header>
+  
+  <div class="maintext">
+    <div class="tagline1">
+        Finest Treat for your Taste Buds
+    </div>
+    <div class="tagline2">
+        Freshest Ingredients Guaranteed
+    </div>
+    <div class="callus">
+        Call us@+91 8765445678
+    </div>
+    <button>Order Online</button>
+  </div>
+  </div>
+<h2 id="menuheading">Menu</h2>
+<div class="menu">
+    <div class="Starters">
+        <table>
+            <th colspan="2">Starters</th>
+            <tr>
+                <td>Paneer Tikka </td>
+                <td>&#8377 180</td>
+            </tr>
+            <tr>
+                <td>Gopi 65</td>
+                <td>&#8377 200</td>
+            </tr>
+            <tr>
+                <td>Veg Pakoda</td>
+                <td>&#8377 150</td>
+            </tr>
+            <tr>
+                <td>Mirchi Bajji</td>
+                <td>&#8377 180</td>
+            </tr>
+            <tr>
+                <td>Chilli Gobi</td>
+                <td>&#8377 160</td>
+            </tr>
+            <tr>
+                <td>Chicken 65</td>
+                <td>&#8377 120</td>
+            </tr>
+            <tr>
+                <td>Paneer 65</td>
+                <td>&#8377 80</td>
+            </tr>
+            <tr>
+                <td>Paneer 65</td>
+                <td>&#8377 80</td>
+            </tr>
+        </table>
+    </div>
+    <div class="Main Course">
+            <table>
+                <th colspan="2">Main Course</th>
+                <tr>
+                    <td>Chicken Briyani</td>
+                    <td>&#8377 180</td>
+                </tr>
+                <tr>
+                    <td>Mutton Briyani</td>
+                    <td>&#8377 200</td>
+                </tr>
+                <tr>
+                    <td>Egg Briyani</td>
+                    <td>&#8377 150</td>
+                </tr>
+                <tr>
+                    <td>Mushroom Briyani</td>
+                    <td>&#8377 150</td>
+                </tr>
+                <tr>
+                    <td>Chicken Noodles</td>
+                    <td>&#8377 180</td>
+                </tr>
+                <tr>
+                    <td>Chicken Fried Rice</td>
+                    <td>&#8377 180</td>
+                </tr>
+                <tr>
+                    <td>Chicken Briyani</td>
+                    <td>&#8377 180</td>
+                </tr>
+                <tr>
+                    <td>Mutton Briyani</td>
+                    <td>&#8377 200</td>
+                </tr>
+                <tr>
+                    <td>Egg Briyani</td>
+                    <td>&#8377 150</td>
+                </tr>
+                <tr>
+                    <td>Mushroom Briyani</td>
+                    <td>&#8377 150</td>
+                </tr>
+                <tr>
+                    <td>Chicken Noodles</td>
+                    <td>&#8377 180</td>
+                </tr>
+               
+            </table>
+    </div>    
+    <div class="Chats">
+            <table>
+                <th colspan="2">Chats</th>
+                <tr>
+                    <td>Samosa</td>
+                    <td>&#8377 20</td>
+                </tr>
+                <tr>
+                    <td>Pani Poori</td>
+                    <td>&#8377 50</td>
+                </tr>
+                <tr>
+                    <td>Masala Poori</td>
+                    <td>&#8377 50</td>
+                </tr>
+                <tr>
+                    <td>Pav Baaji</td>
+                    <td>&#8377 60</td>
+                </tr>
+                <tr>
+                    <td>Egg puffs</td>
+                    <td>&#8377 20</td>
+                </tr>
+                <tr>
+                    <td>Bhel poori</td>
+                    <td>&#8377 50</td>
+                </tr>
+                <tr>
+                    <td>Bhel poori</td>
+                    <td>&#8377 50</td>
+                </tr>
+            </table>
+       </div>
+</div>
+<h2 id="localheading">Location</h2>
+<div class="locations">
+  <div class="annanagar">
+    <h2>Anna Nagar</h2>
+    <address>
+        15, 10th Main Road<br>
+        Anna Nagar</br>
+        Chennai-600102
+    </address>
+</div>
+
+<div class="velachery">
+    <h2>Velachery</h2>
+    <address>
+        5, main cross road<br>
+        Vijaya Nagar </br>
+        Velachery</br>
+        Chennai-600102
+    </address>
+</div>
+
+<div class="Tambaram">
+    <h2>Tambaram</h2>
+    <address>
+        145,MIT Road,</br>
+        Tambaram</br>
+        Chennai-600102
+    </address>
+</div>
+</div>
+<footer>
+   <div id="copyright">&#169 copyright spicy Hut</div>
+
+</footer>
+
+
+
+
+
+    
+</body>
+</html
